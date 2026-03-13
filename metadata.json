@@ -1,0 +1,7 @@
+{
+  "name": "Elite Dental Demo",
+  "description": "A high-conversion, personalized landing page for Dental clinics, featuring dynamic content injection and AI-powered smile visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
